@@ -31,7 +31,7 @@ html {
 }
 
 #cabecalho {
-    background-color: var(--cor-1);
+    background-color: var(--cor-2);
     margin-bottom: 30px;
     position: fixed;
     width: 100%;
@@ -55,13 +55,13 @@ html {
 #cabecalho nav li a {
     display: block;
     padding: 20px;
-    color: var(--cor-3);
+    color: var(--cor-4);
     text-decoration: none;
     transition: all .3s linear;
 }
 
 #cabecalho nav li a:hover {
-    background-color: var(--cor-2);
+    background-color: var(--cor-1);
     color: var(--cor-4);
 }
 
